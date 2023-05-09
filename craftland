@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T08:36:30.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="noGd115EUHmHjvgp5yhE" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:10:04.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZkkmrPPIP2d35_lkyqlD" version="21.2.1" type="github">
   <diagram name="Page-1" id="lRGnj_0HhyOaN_RLaL1N">
-    <mxGraphModel dx="2474" dy="2009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2870,6 +2870,39 @@
               <mxPoint x="280" y="6760" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="7250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-17" value="工程文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="7220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="7250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-18" value="修改标签等，build 后的地图文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="7220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="7210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-19" value="地图创作者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="7130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-23" target="InLDRzXBEnqQCLjtD3Ll-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-23" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="7210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-30" value="上传到传图工具，管理和发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="7220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
