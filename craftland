@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T10:10:04.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ZkkmrPPIP2d35_lkyqlD" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T10:13:08.855Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kLEIJONcJOC_JmIGBlGQ" version="21.2.1" type="github">
   <diagram name="Page-1" id="lRGnj_0HhyOaN_RLaL1N">
     <mxGraphModel dx="2332" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2903,6 +2903,45 @@
         </mxCell>
         <mxCell id="InLDRzXBEnqQCLjtD3Ll-30" value="上传到传图工具，管理和发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="965" y="7220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="7510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-33" value="build 后的地图文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="7480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-35" target="InLDRzXBEnqQCLjtD3Ll-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-35" value="修改标签等" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="7480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="7470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-37" value="地图创作者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="7390" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="InLDRzXBEnqQCLjtD3Ll-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="7510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-39" value="运营" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="7470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-40" target="InLDRzXBEnqQCLjtD3Ll-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-40" value="上传到传图工具" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="7480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-44" value="管理和发布" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="7480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
