@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T11:11:12.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z8C8NGQ0PnvlynoWdbFM" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T03:21:36.076Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="U1TEVLk0pLlbqhSwevpM" version="21.2.1" type="github">
   <diagram name="Page-1" id="lRGnj_0HhyOaN_RLaL1N">
     <mxGraphModel dx="2332" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2915,7 +2915,7 @@
         <mxCell id="InLDRzXBEnqQCLjtD3Ll-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-35" target="InLDRzXBEnqQCLjtD3Ll-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="InLDRzXBEnqQCLjtD3Ll-35" value="修改标签等" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="InLDRzXBEnqQCLjtD3Ll-35" value="修改标签等发布相关的参数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="7780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="InLDRzXBEnqQCLjtD3Ll-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="InLDRzXBEnqQCLjtD3Ll-37">
