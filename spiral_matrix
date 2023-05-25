@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T08:45:46.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="O1mF9uU09Eu0YcIVOR9b" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:15:48.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kETb1Tt59U0o4YqRV-9b" version="21.3.2" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="2332" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2332" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1445,6 +1445,67 @@
         </mxCell>
         <mxCell id="OpKk6ay9aEKQNtkLYeCl-15" value="相遇节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;strokeWidth=9;" parent="1" vertex="1">
           <mxGeometry x="30" y="3510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-1" value="p4" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="3680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-2" target="G84CPT-TUOR_Db_w368b-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-13" value="拉取配置文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G84CPT-TUOR_Db_w368b-12">
+          <mxGeometry x="-0.2966" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-2" value="ugc传图工具" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="820" y="3790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-3" target="G84CPT-TUOR_Db_w368b-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-3" target="G84CPT-TUOR_Db_w368b-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="3910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="3960" />
+              <mxPoint x="300" y="3960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-3" value="游戏客户端" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.243;entryY=0.946;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-4" target="G84CPT-TUOR_Db_w368b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-4" value="SBT" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="3980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-6" target="G84CPT-TUOR_Db_w368b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-6" value="RCT" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="300" y="4062" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G84CPT-TUOR_Db_w368b-9" target="G84CPT-TUOR_Db_w368b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-15" value="出包时，调一个接口，通知传图工具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G84CPT-TUOR_Db_w368b-14">
+          <mxGeometry x="0.0182" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-9" value="Live" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="3880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-20" value="出包时，调一个接口，通知传图工具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="620" y="3990" as="geometry" />
+        </mxCell>
+        <mxCell id="G84CPT-TUOR_Db_w368b-21" value="出包时，调一个接口，通知传图工具" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="4080" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
