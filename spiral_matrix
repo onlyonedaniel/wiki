@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T03:18:06.267Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fWau06kTRenlNiV__7sY" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T05:57:10.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vgUlm11-yhjcLb8NCS_X" version="22.1.0" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="2687" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1571,15 +1571,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2zo0l3r1HzyOJwYFUsL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="4870" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-2" target="_2zo0l3r1HzyOJwYFUsL-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-2" value="审核中" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-257" y="4690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-3" target="_2zo0l3r1HzyOJwYFUsL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-3" target="_2zo0l3r1HzyOJwYFUsL-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-3" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1604,10 +1605,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-13" value="未发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="4870" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="4870" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-21" value="审核失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="4700" width="70" height="30" as="geometry" />
+          <mxGeometry x="-123.5" y="4700" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-13" target="_2zo0l3r1HzyOJwYFUsL-19">
           <mxGeometry relative="1" as="geometry">
@@ -1615,8 +1616,8 @@
             <mxPoint x="-280" y="4910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2zo0l3r1HzyOJwYFUsL-19" value="版本回退" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="4895" width="70" height="30" as="geometry" />
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-19" value="版本回退当前商店里的版本&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;中间版本的状态改为废弃&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="4890" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-26" value="上传失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="4560" width="70" height="30" as="geometry" />
@@ -1626,14 +1627,14 @@
             <mxPoint x="80.2800000000002" y="4469.172" as="targetPoint" />
             <mxPoint x="-560" y="4930" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-560" y="4917" />
-              <mxPoint x="-560" y="4656" />
-              <mxPoint x="-549" y="4656" />
-              <mxPoint x="-549" y="4447" />
+              <mxPoint x="-401" y="4990" />
+              <mxPoint x="-560" y="4990" />
+              <mxPoint x="-560" y="4447" />
+              <mxPoint x="80" y="4447" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_2zo0l3r1HzyOJwYFUsL-32" value="更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_2zo0l3r1HzyOJwYFUsL-29">
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-32" value="更新文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_2zo0l3r1HzyOJwYFUsL-29">
           <mxGeometry x="-0.6227" y="2" relative="1" as="geometry">
             <mxPoint x="2" y="-147" as="offset" />
           </mxGeometry>
@@ -1655,6 +1656,38 @@
         </mxCell>
         <mxCell id="_2zo0l3r1HzyOJwYFUsL-38" value="未发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="4473" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-42" value="只更新字段或封面图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-525" y="4830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.385;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_2zo0l3r1HzyOJwYFUsL-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-474.5" y="4700" as="sourcePoint" />
+            <mxPoint x="-39.5" y="4483" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-474" y="4504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-43" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="4690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.277;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_2zo0l3r1HzyOJwYFUsL-43" target="_2zo0l3r1HzyOJwYFUsL-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-450" y="4630" />
+              <mxPoint x="-280" y="4630" />
+              <mxPoint x="-280" y="4693" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-47" value="上传成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_2zo0l3r1HzyOJwYFUsL-45">
+          <mxGeometry x="-0.225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_2zo0l3r1HzyOJwYFUsL-49" value="上传失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="4488" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
