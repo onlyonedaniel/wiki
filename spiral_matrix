@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T09:59:10.848Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="8E2CmPQpRuIYSqtghCY9" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:19:19.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xCv0NZ_f0GTih0OYS78M" version="22.1.5" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="3897" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3826" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14" y="6810" width="320" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="6860" width="320" height="650" as="geometry" />
         </mxCell>
         <mxCell id="HBlapGiaYQCE9u0VTY2D-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1884,33 +1884,30 @@
         <mxCell id="HBlapGiaYQCE9u0VTY2D-45" value="web项目的状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-755" y="6900" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-V36uhZyCAa3xwW6zvf-1" target="A-V36uhZyCAa3xwW6zvf-3">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="A-V36uhZyCAa3xwW6zvf-1" target="A-V36uhZyCAa3xwW6zvf-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A-V36uhZyCAa3xwW6zvf-5">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="A-V36uhZyCAa3xwW6zvf-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1205" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBlapGiaYQCE9u0VTY2D-46" value="已发布（只要有一个账号发布成功过）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-765" y="6990" width="120" height="80" as="geometry" />
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-1" value="未发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-770" y="6990" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-1" value="未发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="7010" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-3" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-3" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-765" y="7180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-4" value="编辑未发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-4" value="编辑未发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-630" y="7660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-9" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-9" value="已发布" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-305" y="7375" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-13" value="项目状态只跟有没有成功发布过有关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-13" value="项目状态只跟有没有成功发布过有关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-820" y="7400" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-V36uhZyCAa3xwW6zvf-14" value="任务状态是叠加态&lt;br&gt;叠加了地图状态&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="A-V36uhZyCAa3xwW6zvf-14" value="任务状态是叠加态&lt;br&gt;叠加了地图状态&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-317" y="7533" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
