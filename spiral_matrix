@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T07:36:44.110Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="q8PT1W3IvAiXksOLwr76" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T08:06:02.000Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Fr3xHyR0PJp9qGHoLu_3" version="22.1.5" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="3826" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1947,6 +1947,33 @@
         </mxCell>
         <mxCell id="uHcWy9460TDd0Brywfne-12" value="published" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-505" y="8140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-13" value="projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="8290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-14" value="projects_version" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-441.5" y="8280" width="97" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-16" value="FE_account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="8470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-17" value="FF_account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="8480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-18" value="project" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="8470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-19" value="account_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="8470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-20" value="slot_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="8470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-21" value="FF_account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="8370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHcWy9460TDd0Brywfne-22" value="FF_account" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="8590" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
