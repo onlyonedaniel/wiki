@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T03:14:06.980Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9Mh0qmhweCuny88jg_2l" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T03:21:58.324Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="R1P7GPabk_4zIDIig8oP" version="22.1.7" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="4055" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-11" value="FF" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="7513" width="467" height="277" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3kOwJFMewi_-RMkIh2Ds-5" target="3kOwJFMewi_-RMkIh2Ds-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-5" value="FE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-155" y="7560" width="430" height="240" as="geometry" />
         </mxCell>
@@ -2162,10 +2168,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-3" value="FF地图" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="533" y="7740" width="120" height="80" as="geometry" />
+          <mxGeometry x="540.5" y="7533" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="7730" as="sourcePoint" />
+            <mxPoint x="275" y="7690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="530" y="7731" />
+              <mxPoint x="276" y="7731" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-4" value="FF账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="7610" width="120" height="80" as="geometry" />
+          <mxGeometry x="530" y="7680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-6" value="创作者中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137" y="7890" width="416" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-7" value="项目" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="7938" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-9" value="获取当前绑定的FF账号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="7878" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-10" value="web项目和FF 、FE账号、地图的发布历史" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="8070" width="245" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-13" value="FE-FF的绑定关系" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="7670" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
