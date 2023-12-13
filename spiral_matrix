@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T08:38:00.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FbGJGFjFDtIoPbLNiL9r" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T08:43:02.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1kug__j4TWACqdvaYh6E" version="22.1.7" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="4055" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2209,9 +2209,14 @@
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3kOwJFMewi_-RMkIh2Ds-15" target="3kOwJFMewi_-RMkIh2Ds-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3kOwJFMewi_-RMkIh2Ds-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3kOwJFMewi_-RMkIh2Ds-15">
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-41" value="发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3kOwJFMewi_-RMkIh2Ds-20">
+          <mxGeometry x="-0.3626" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3kOwJFMewi_-RMkIh2Ds-15" target="3kOwJFMewi_-RMkIh2Ds-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="57" y="8740" as="targetPoint" />
+            <mxPoint x="40" y="8740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-15" value="2 B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2257,6 +2262,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="126.4" y="8870" as="sourcePoint" />
             <mxPoint x="221.59999999999982" y="9028" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3kOwJFMewi_-RMkIh2Ds-42" value="发布" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3kOwJFMewi_-RMkIh2Ds-27">
+          <mxGeometry x="0.3992" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3kOwJFMewi_-RMkIh2Ds-28" value="3 US区 Faild， 前台展示为更新未发布" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
