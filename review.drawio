@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T03:07:33.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.6" etag="-c8Tmy0dB1lD6NeifSfN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T07:23:07.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="69zzK9L4iO_EaLyPs79c" version="24.0.6" type="github">
   <diagram name="Page-1" id="76cawYGLzmRTCJIRn4Xe">
-    <mxGraphModel>
+    <mxGraphModel dx="1527" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-3" value="b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZpXFT_uW1NQQeK_htyu-4" target="PZpXFT_uW1NQQeK_htyu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-4" value="a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-5" value="c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-6" value="d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-7" value="e" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZpXFT_uW1NQQeK_htyu-8" target="PZpXFT_uW1NQQeK_htyu-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="100" />
+              <mxPoint x="80" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-8" value="a b.c d" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.663;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZpXFT_uW1NQQeK_htyu-8" target="PZpXFT_uW1NQQeK_htyu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-10" value="审核结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="590" width="380" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-12" value="审核池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-13" value="审核队列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" y="358" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-15" value="过期、下架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="258" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-16" value="符合人审条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="238" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.001;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZpXFT_uW1NQQeK_htyu-5" target="PZpXFT_uW1NQQeK_htyu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PZpXFT_uW1NQQeK_htyu-17">
+          <mxGeometry x="-0.2415" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-19" value="人工处理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PZpXFT_uW1NQQeK_htyu-20" value="自动判断下架或更新了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
