@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T09:50:52.472Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="82qkkn-tHpqx1pzTFH3L" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T11:02:50.315Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bRMkQCf3jyrOuVjZub3K" version="24.2.5" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="4190" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="7380" width="1320" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="8mUHQFWOA-F1zyo-ERxf-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1754" y="2900" width="1084" height="120" as="geometry" />
         </mxCell>
@@ -2855,6 +2858,24 @@
         </mxCell>
         <mxCell id="0T-l-DpX3NxOFbV1sftS-44" value="1.先把失效的地图刷新一下&lt;div&gt;2.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1161" y="7450" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-47" value="SG 的热门槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1765" y="7348" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="7958" width="1320" height="352" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-50" value="a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2155" y="8013" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-51" value="b" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-2035" y="8013" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-52" value="c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1915" y="8013" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0T-l-DpX3NxOFbV1sftS-53" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2275" y="8013" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
