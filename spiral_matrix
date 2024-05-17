@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T07:10:41.310Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yEDW7Sn-g1rz25TkSoCx" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T08:18:06.895Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6TGfU5Y6t3GpSr-sRTvW" version="24.3.1" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="4942" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3256,8 +3256,11 @@
         <mxCell id="SBhILNF41yRR8n0dfGpE-11" value="赠送槽位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2845" y="798" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBhILNF41yRR8n0dfGpE-12" value="23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2860" y="518" width="40" height="30" as="geometry" />
+        <mxCell id="SBhILNF41yRR8n0dfGpE-12" value="23，不确定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="518" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SBhILNF41yRR8n0dfGpE-13" value="超管槽位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2940" y="670" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
