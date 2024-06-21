@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T02:23:26.469Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vlfBIYFa_wriNZwtj8dl" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-21T07:25:16.975Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="agMVC5XeIFToXS_aR4f0" version="24.5.2" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="5610" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3602,6 +3602,30 @@
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.018;entryY=0.692;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iLXgyAbcUHBWHG10CIGS-41" target="iLXgyAbcUHBWHG10CIGS-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" vertex="1" parent="1">
+          <mxGeometry x="-3350" y="3550" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-67" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-3090" y="3750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-69" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2960" y="3585" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-70" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-2715" y="3750" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" vertex="1" parent="1">
+          <mxGeometry x="-2680" y="3565" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-72" value="常亮的灯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3339" y="3840" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-73" value="声控灯，人来之前不亮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3050" y="3848" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-75" value="感应到声音，才亮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2691.5" y="3840" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
