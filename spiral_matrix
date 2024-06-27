@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T10:53:02.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Wgw6qcYqmmFZyQfCTi6y" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T06:33:53.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="LS0nKu9PSYr2T3_o6gPy" version="24.6.0" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="5610" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3677,6 +3677,9 @@
         </mxCell>
         <mxCell id="PXv4Og1_wk7NJ8agdPhl-21" value="普通槽释放出来，没有战场码，&lt;div&gt;新建一条记录，拷贝一份地图文件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3310" y="5830" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-22" value="max = 1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2880" y="710" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
