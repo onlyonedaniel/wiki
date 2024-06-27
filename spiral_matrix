@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T06:34:34.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0aDEwJON2hseGCAllQQd" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T08:59:20.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9fEbbrGip-1VkQ7sq0r-" version="24.6.0" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
     <mxGraphModel dx="5610" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3680,6 +3680,27 @@
         </mxCell>
         <mxCell id="PXv4Og1_wk7NJ8agdPhl-22" value="max = 1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2880" y="710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-24" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;createofficial.garena.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2430" y="560" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-25" value="官网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2254" y="777.5" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-26" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2585" y="773" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-28" value="/share" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2420" y="678" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-30" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2245" y="688" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
