@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-29T02:58:44.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NpOSiqOe9cnxG_JpM9oP" version="24.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-29T06:02:33.613Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ADaH4JcsZaFlJG8bC5Ox" version="24.7.0" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="5185" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5185" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3512,7 +3512,7 @@
         <mxCell id="iLXgyAbcUHBWHG10CIGS-17" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3140" y="2052" width="140" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="iLXgyAbcUHBWHG10CIGS-18" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-18" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3000" y="2052" width="140" height="178" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-19" value="web" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3756,8 +3756,8 @@
         <mxCell id="Jh_SsmaV0pZM_jrd-8TD-40" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2910" y="4375" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-42" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2951" y="4582" width="40" height="30" as="geometry" />
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-42" value="后端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2956" y="4582" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jh_SsmaV0pZM_jrd-8TD-43" value="web 服务的端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2975.5" y="4509" width="110" height="30" as="geometry" />
@@ -3819,8 +3819,8 @@
         <mxCell id="Jh_SsmaV0pZM_jrd-8TD-63" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2765" y="4660" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-64" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2845" y="4863" width="40" height="30" as="geometry" />
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-64" value="前端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="4863" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Jh_SsmaV0pZM_jrd-8TD-65" value="web 服务的端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2830.5" y="4794" width="110" height="30" as="geometry" />
@@ -3851,9 +3851,6 @@
         </mxCell>
         <mxCell id="Jh_SsmaV0pZM_jrd-8TD-76" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8012：Queue Proxy代理的HTTP端口，访问应用流量的入口。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8013：HTTP2端口，用于gRPC流量的转发，未使用。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8022：Queue Proxy管理端口，如健康检查等。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9090：Queue Proxy容器的监控端口，数据由Autoscaler采集，用于实现基于请求的自动扩缩容。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9091：Queue Proxy采集到的应用监控指标（请求数、响应时长等），由Prometheus采集。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3206" y="2280" width="540" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-77" value="如果存在前端静态文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="2230" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
