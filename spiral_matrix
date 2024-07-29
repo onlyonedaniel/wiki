@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T08:59:20.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="9fEbbrGip-1VkQ7sq0r-" version="24.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-29T02:46:27.618Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="SeZ8Za48GA5bAWB7I5rb" version="24.7.0" type="github">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="5610" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5185" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3509,7 +3509,7 @@
         <mxCell id="iLXgyAbcUHBWHG10CIGS-17" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3140" y="2052" width="140" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="iLXgyAbcUHBWHG10CIGS-18" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iLXgyAbcUHBWHG10CIGS-18" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-3000" y="2052" width="140" height="178" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-19" value="web" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -3531,7 +3531,7 @@
           <mxGeometry x="-2980" y="1992" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-26" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2900" y="2230" width="40" height="30" as="geometry" />
+          <mxGeometry x="-2826" y="4439" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-27" value="web 服务的端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2885.5" y="2161" width="110" height="30" as="geometry" />
@@ -3546,7 +3546,7 @@
           <mxGeometry x="-3434" y="2497.5" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-33" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8012：Queue Proxy代理的HTTP端口，访问应用流量的入口。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8013：HTTP2端口，用于gRPC流量的转发，未使用。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8022：Queue Proxy管理端口，如健康检查等。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9090：Queue Proxy容器的监控端口，数据由Autoscaler采集，用于实现基于请求的自动扩缩容。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9091：Queue Proxy采集到的应用监控指标（请求数、响应时长等），由Prometheus采集。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3280" y="2262.5" width="540" height="90" as="geometry" />
+          <mxGeometry x="-3206" y="4471.5" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-34" value="8012" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3290" y="2032" width="30" height="30" as="geometry" />
@@ -3564,7 +3564,7 @@
           <mxGeometry x="-3230" y="2032" width="30" height="34" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-40" value="knative 注入的&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Verdana, Arial, sans-serif; font-size: 14px; text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;系统容器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-3308" y="2232.5" width="160" height="30" as="geometry" />
+          <mxGeometry x="-3234" y="4441.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iLXgyAbcUHBWHG10CIGS-41" value="traefik" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3490" y="3160" width="80" height="80" as="geometry" />
@@ -3627,80 +3627,236 @@
         <mxCell id="iLXgyAbcUHBWHG10CIGS-75" value="感应到声音，才亮" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2691.5" y="3840" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-3" value="1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-3" value="1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3080" y="5249" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-4" value="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-4" value="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3250" y="5249" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-5" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-5" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3360" y="5261" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-6" value="热门槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-6" value="热门槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3220" y="5209" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-7" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-7" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3050" y="5210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-9" value="1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-9" value="1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3085" y="5440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-10" value="10001" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-10" value="10001" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3255" y="5440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-11" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-11" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3365" y="5452" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-12" value="赠送槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-12" value="赠送槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3225" y="5400" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-13" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-13" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3055" y="5401" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-14" value="1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-14" value="1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3085" y="5820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-15" value="10001" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-15" value="10001" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-3085" y="5648" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-16" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-16" value="地图a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3255" y="5660" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-18" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-18" value="普通槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3060" y="5601" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-19" value="占用了一个热门槽和普通槽位，普通槽位上实际没有地图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-19" value="占用了一个热门槽和普通槽位，普通槽位上实际没有地图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-3290" y="5330" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-20" value="版更后热门槽位变为赠送槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-20" value="版更后热门槽位变为赠送槽" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="-3220" y="5535" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-21" value="普通槽释放出来，没有战场码，&lt;div&gt;新建一条记录，拷贝一份地图文件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-21" value="普通槽释放出来，没有战场码，&lt;div&gt;新建一条记录，拷贝一份地图文件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3310" y="5830" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-22" value="max = 1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-22" value="max = 1000" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2880" y="710" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-26">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-25">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PXv4Og1_wk7NJ8agdPhl-24" target="PXv4Og1_wk7NJ8agdPhl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-24" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;createofficial.garena.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-24" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;createofficial.garena.com&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2430" y="560" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-25" value="官网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-25" value="官网" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2254" y="777.5" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-26" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-26" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2585" y="773" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-28" value="/share" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-28" value="/share" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2420" y="678" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PXv4Og1_wk7NJ8agdPhl-30" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="PXv4Og1_wk7NJ8agdPhl-30" value="/" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2245" y="688" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Jh_SsmaV0pZM_jrd-8TD-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3630" y="4430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3781" y="4430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="Jh_SsmaV0pZM_jrd-8TD-1" target="Jh_SsmaV0pZM_jrd-8TD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-1" value="FE 客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3841" y="4090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-2" value="FE 后台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3580" y="3970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-3" value="web 创作者中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3534" y="4210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-4" value="web 传图工具" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3629" y="4393" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-6" value="build 导出文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3840" y="4328" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-8" value="调用创作者中心的接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3750" y="4208" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.368;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jh_SsmaV0pZM_jrd-8TD-1" target="Jh_SsmaV0pZM_jrd-8TD-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3730" y="3999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-10" value="调用FE上传接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3755" y="3978" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-11" value="&lt;div style=&quot;line-height: 18px; white-space-collapse: preserve; font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;1.UGCProjectMetaData.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;增加一个类似MapScreenshotDatas，&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;比如&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;CustomizeResourceScreenshotDatas&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: rgb(255, 255, 255); text-align: center;&quot;&gt;2.ModeVariable 增加一个intArrValue类型&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: rgb(255, 255, 255); text-align: center;&quot;&gt;3.&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;增加两个机制参数：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;1.自定义资源类型intarr&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;2.是否是完整预览bool&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;background-color: rgb(30, 30, 30);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-4070" y="4173" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-12" value="不涉及接口变更" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3524" y="4290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-36" value="web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2810" y="4401.5" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-37" value="init container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2670" y="4401.5" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-38" value="9500&lt;div&gt;/metrics&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3050" y="4379.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-40" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2770" y="4376.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-42" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2850" y="4579.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-43" value="web 服务的端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2835.5" y="4510.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-44" value="queue proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3230" y="4401.5" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-46" value="8012" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3240" y="4381.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-47" value="9091" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="4383.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-48" value="9090" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3150" y="4383.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-49" value="8013" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3210" y="4382.5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-50" value="8022" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3180" y="4381.5" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-51" value="knative 注入的&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Verdana, Arial, sans-serif; font-size: 14px; text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;系统容器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3258" y="4582" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-52" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2845" y="4459.5" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-53" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2821" y="4722.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-54" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8012：Queue Proxy代理的HTTP端口，访问应用流量的入口。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8013：HTTP2端口，用于gRPC流量的转发，未使用。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8022：Queue Proxy管理端口，如健康检查等。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9090：Queue Proxy容器的监控端口，数据由Autoscaler采集，用于实现基于请求的自动扩缩容。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9091：Queue Proxy采集到的应用监控指标（请求数、响应时长等），由Prometheus采集。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3201" y="4755" width="540" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-55" value="knative 注入的&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Verdana, Arial, sans-serif; font-size: 14px; text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;系统容器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3229" y="4725" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3085" y="4685" width="560" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-57" value="agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3085" y="4685" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-58" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2945" y="4683.5" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-59" value="web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2805" y="4685" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-60" value="init container" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2665" y="4685" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-61" value="9500&lt;div&gt;/metrics&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3045" y="4663" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-62" value="&lt;div&gt;80&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2910" y="4665" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-63" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2765" y="4660" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-64" value="pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2845" y="4863" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-65" value="web 服务的端口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2830.5" y="4794" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-66" value="queue proxy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3225" y="4685" width="140" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-67" value="8012" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3235" y="4665" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-68" value="9091" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3115" y="4667" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-69" value="9090" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3145" y="4667" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-70" value="8013" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3205" y="4666" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-71" value="8022" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3175" y="4665" width="30" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-72" value="knative 注入的&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Verdana, Arial, sans-serif; font-size: 14px; text-align: left; text-wrap: wrap; background-color: rgb(255, 255, 255);&quot;&gt;系统容器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3248" y="4819.75" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-73" value="3001" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2840" y="4743" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-76" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8012：Queue Proxy代理的HTTP端口，访问应用流量的入口。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8013：HTTP2端口，用于gRPC流量的转发，未使用。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;8022：Queue Proxy管理端口，如健康检查等。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9090：Queue Proxy容器的监控端口，数据由Autoscaler采集，用于实现基于请求的自动扩缩容。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;9091：Queue Proxy采集到的应用监控指标（请求数、响应时长等），由Prometheus采集。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3206" y="2280" width="540" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Jh_SsmaV0pZM_jrd-8TD-77" value="如果存在前端静态文件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="2230" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
