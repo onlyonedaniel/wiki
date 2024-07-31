@@ -36,8 +36,11 @@
         <mxCell id="i67tSVPoHM7ITiix1ZI--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--1" value="对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="170" width="90" height="60" as="geometry" />
+          <mxGeometry x="150" y="170" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--2" value="spec 对象规约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="120" height="60" as="geometry" />
@@ -75,7 +78,7 @@
         <mxCell id="i67tSVPoHM7ITiix1ZI--20" value="标签和选择符&lt;div&gt;label&lt;/div&gt;&lt;div&gt;selectors&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i67tSVPoHM7ITiix1ZI--22" value="标签可以在任何纬度对资源进行切片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="i67tSVPoHM7ITiix1ZI--22" value="标签可以在任何纬度对资源进行切片&lt;div&gt;&lt;span style=&quot;color: rgb(34, 34, 34); font-family: SFMono-Regular, Menlo, Monaco, Consolas, &amp;quot;liberation mono&amp;quot;, &amp;quot;courier new&amp;quot;, monospace; font-size: 13.6px; text-align: left; background-color: rgba(0, 0, 0, 0.05);&quot;&gt;app.kubernetes.io 为共享标签&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="585" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--24" target="i67tSVPoHM7ITiix1ZI--26">
@@ -113,6 +116,24 @@
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--37" value="字段选择器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--39" target="i67tSVPoHM7ITiix1ZI--41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--39" value="finalizers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--41" value="垃圾回收" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--43" value="属主&lt;div&gt;owner&lt;/div&gt;&lt;div&gt;附属&lt;/div&gt;&lt;div&gt;dependent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="i67tSVPoHM7ITiix1ZI--43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94.75" y="210" as="sourcePoint" />
+            <mxPoint x="254.75" y="1050" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
