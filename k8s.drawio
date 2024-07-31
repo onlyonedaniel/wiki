@@ -78,14 +78,29 @@
         <mxCell id="i67tSVPoHM7ITiix1ZI--24" value="命名空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i67tSVPoHM7ITiix1ZI--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--26" target="i67tSVPoHM7ITiix1ZI--28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="i67tSVPoHM7ITiix1ZI--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="710" as="sourcePoint" />
+            <mxPoint x="760" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--26" target="i67tSVPoHM7ITiix1ZI--32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="724" y="710" />
+              <mxPoint x="724" y="721" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--26" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;open sans&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;segoe ui&amp;quot;, Roboto, &amp;quot;helvetica neue&amp;quot;, Arial, sans-serif, &amp;quot;apple color emoji&amp;quot;, &amp;quot;segoe ui emoji&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;提供一种机制，将同一集群中的资源划分为相互隔离的组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="680" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--28" value="deployment&lt;div&gt;service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;集群范围的对象不适用&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="670" width="135" height="80" as="geometry" />
+          <mxGeometry x="750" y="530" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--32" value="default&lt;div&gt;kube-node-lease（检测节点故障）&lt;/div&gt;&lt;div&gt;kube-public(整个集群可见的资源)&lt;/div&gt;&lt;div&gt;kube-system(k8s 系统创建的对象）&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="690" width="190" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
