@@ -16,6 +16,20 @@
         <mxCell id="i67tSVPoHM7ITiix1ZI--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="200" />
+              <mxPoint x="295" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--1" target="i67tSVPoHM7ITiix1ZI--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--1" value="对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="170" width="90" height="60" as="geometry" />
         </mxCell>
@@ -45,6 +59,33 @@
         </mxCell>
         <mxCell id="i67tSVPoHM7ITiix1ZI--14" value="1.指令式&lt;div&gt;2.指令配置&lt;/div&gt;&lt;div&gt;3.声明式配置&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--17" value="对象名称和ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--20" target="i67tSVPoHM7ITiix1ZI--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--20" value="标签和选择符" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--22" value="标签可以在任何纬度对资源进行切片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="585" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--24" target="i67tSVPoHM7ITiix1ZI--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--24" value="命名空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--26" target="i67tSVPoHM7ITiix1ZI--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--26" value="&lt;span style=&quot;color: rgb(34, 34, 34); font-family: &amp;quot;open sans&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;segoe ui&amp;quot;, Roboto, &amp;quot;helvetica neue&amp;quot;, Arial, sans-serif, &amp;quot;apple color emoji&amp;quot;, &amp;quot;segoe ui emoji&amp;quot;, &amp;quot;segoe ui symbol&amp;quot;; font-size: 16px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;提供一种机制，将同一集群中的资源划分为相互隔离的组&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="680" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--28" value="deployment&lt;div&gt;service&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;集群范围的对象不适用&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="670" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
