@@ -135,6 +135,67 @@
             <mxPoint x="254.75" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--47" target="i67tSVPoHM7ITiix1ZI--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--47" value="组件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--49" target="i67tSVPoHM7ITiix1ZI--51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--49" target="i67tSVPoHM7ITiix1ZI--55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1310" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--49" value="控制平面" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="120" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--51" target="i67tSVPoHM7ITiix1ZI--53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--51" value="kube-apiserver" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--53" value="公开api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--55" target="i67tSVPoHM7ITiix1ZI--57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--55" value="etcd" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--57" value="作为数据库&lt;div&gt;存储状态和配置&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--59" target="i67tSVPoHM7ITiix1ZI--60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--59" value="kube-scheduler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--60" value="监视新创建的pods" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--62" target="i67tSVPoHM7ITiix1ZI--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--62" value="kube-scheduler-manager" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i67tSVPoHM7ITiix1ZI--63" target="i67tSVPoHM7ITiix1ZI--65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--63" value="运行控制器进程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i67tSVPoHM7ITiix1ZI--65" value="node controller&lt;div&gt;job controller&lt;/div&gt;&lt;div&gt;endpointslice controller&lt;/div&gt;&lt;div&gt;service account controller&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
