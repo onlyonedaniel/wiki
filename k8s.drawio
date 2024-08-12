@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="EzidtO3Hb19t3wDcSpyZ">
-    <mxGraphModel dx="1522" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,11 +242,23 @@
         <mxCell id="i67tSVPoHM7ITiix1ZI--80" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1280" y="960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xOwlHwxs3cl8Oye5NE4x-1" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1360" width="120" height="80" as="geometry" />
+        <mxCell id="xOwlHwxs3cl8Oye5NE4x-1" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;nuxt&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xOwlHwxs3cl8Oye5NE4x-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;web分享页&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="1600" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="1510" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOwlHwxs3cl8Oye5NE4x-3" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;goku&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOwlHwxs3cl8Oye5NE4x-4" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;global&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOwlHwxs3cl8Oye5NE4x-5" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;nuxt&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1390" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xOwlHwxs3cl8Oye5NE4x-6" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;nuxt&lt;br&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1230" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
