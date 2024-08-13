@@ -478,6 +478,46 @@
         <mxCell id="jzxiRd1BHdq7fpUtfgvh-77" value="重新设置eventtoken header" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="469" y="3460" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzxiRd1BHdq7fpUtfgvh-78" target="jzxiRd1BHdq7fpUtfgvh-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzxiRd1BHdq7fpUtfgvh-78" target="jzxiRd1BHdq7fpUtfgvh-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="3950" />
+              <mxPoint x="635" y="3950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-89" value="web 产品修改配置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jzxiRd1BHdq7fpUtfgvh-85">
+          <mxGeometry x="-0.16" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-78" value="pre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="3850" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-79" value="live" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="4000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-80" value="pre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="3830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-81" value="分支" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="354" y="3788" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-82" value="包" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="3718" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jzxiRd1BHdq7fpUtfgvh-83" target="jzxiRd1BHdq7fpUtfgvh-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-83" value="live" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="4012" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jzxiRd1BHdq7fpUtfgvh-90" value="web 产品修改配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="469" y="4070" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
