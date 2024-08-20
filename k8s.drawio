@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="EzidtO3Hb19t3wDcSpyZ">
-    <mxGraphModel dx="1487" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="217.5" y="7450" width="1200" height="670" as="geometry" />
+          <mxGeometry x="203.75" y="7480" width="1242.5" height="1370" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="6990" width="1200" height="410" as="geometry" />
+          <mxGeometry x="220" y="7000" width="1200" height="410" as="geometry" />
         </mxCell>
         <mxCell id="jzxiRd1BHdq7fpUtfgvh-10" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="2110" width="350" height="370" as="geometry" />
@@ -746,6 +746,24 @@
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-2" target="5UZ_HsLZ3jPjD0dXYHbv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-43" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5UZ_HsLZ3jPjD0dXYHbv-13">
+          <mxGeometry x="0.2745" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-45" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;地图所在小区符合条件&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5UZ_HsLZ3jPjD0dXYHbv-13">
+          <mxGeometry x="0.1763" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-2" target="5UZ_HsLZ3jPjD0dXYHbv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-46" value="当下不符合条件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5UZ_HsLZ3jPjD0dXYHbv-44">
+          <mxGeometry x="0.4549" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-2" value="审核平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="7150" width="80" height="80" as="geometry" />
         </mxCell>
@@ -764,6 +782,11 @@
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-6" value="DATA&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="985" y="7010" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="7190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="892" y="7165" as="targetPoint" />
@@ -774,27 +797,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-8" value="审核平台region配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="834.5" y="7000" width="111" height="90" as="geometry" />
+          <mxGeometry x="834.5" y="7000" width="111" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-12" value="审核队列" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-12" value="审核队列（region 是创作者的）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1233.5" y="7150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-16" value="一张地图分多个小区统计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1020" y="7110" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-19" value="看地图所在小区是否符合条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="7160" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1085" y="7670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-19" value="看地图所在小区是否符合条件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="7160" width="180" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-20" value="审核平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="7630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-23" value="被动下发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="764.5" y="8160" width="70" height="30" as="geometry" />
+          <mxGeometry x="725" y="8890" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-25" value="主动下发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="790" y="7410" width="70" height="30" as="geometry" />
@@ -815,20 +838,123 @@
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-28" value="审核平台region 配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="7540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-31" value="根据配置的开关，找到对应区热门数据，生成任务的时候按照地图所在区生成任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="7670" width="460" height="30" as="geometry" />
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-31" value="根据配置的开关，找到对应区热门数据，必须在待审核池中" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="7670" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-32" value="top player&lt;div&gt;top player time&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="7640" width="100" height="40" as="geometry" />
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-32" value="top player&lt;div&gt;top player time&lt;/div&gt;&lt;div&gt;custom resource&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="7630" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="7635" width="80" height="70" as="geometry" />
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-36" value="审核队列（region 是创作者的）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="7630" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-39" value="这种情况下只有地图在对应发布的区符合了条件（热门、异常监控、）才能进审" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="980" y="7210" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-37" value="待" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="579" y="7520" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-39" value="这种情况下只有地图在对应发布的区符合了条件才能进审" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="7200" width="320" height="30" as="geometry" />
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-42" value="待抽查池（region 是创作者的）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="7280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-42" target="5UZ_HsLZ3jPjD0dXYHbv-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="7380" />
+              <mxPoint x="835" y="7380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5UZ_HsLZ3jPjD0dXYHbv-48">
+          <mxGeometry x="-0.2521" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="7980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-58" value="审核平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="7940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="7980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-60" value="DATA&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="7850" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715" y="7980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-62" value="审核平台region 配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="7850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-63" value="根据配置的开关，根据data 的region (data 的region不一定等于创作者的region)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="7980" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-64" value="审核队列（region 是data 的）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="7940" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-65" value="异常监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="7960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="8310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-72" value="审核平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="8270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="860" y="8310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-74" value="DATA&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="8180" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="8310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-76" value="审核平台region 配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="8180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-77" value="根据配置的开关，根据data 的region (这张表data 的region == 创作者的region)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="8310" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-78" value="审核队列（region 是data 的）" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="8270" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-79" value="举报监控" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="8290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-87" target="5UZ_HsLZ3jPjD0dXYHbv-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-82" value="审核平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="8550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-83" value="csv 导入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="8575" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-85" value="审核队列" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033.5" y="8555" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5UZ_HsLZ3jPjD0dXYHbv-82" target="5UZ_HsLZ3jPjD0dXYHbv-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559" y="8590" as="sourcePoint" />
+            <mxPoint x="1034" y="8590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5UZ_HsLZ3jPjD0dXYHbv-87" value="根据表里的region 来" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="725" y="8575" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
