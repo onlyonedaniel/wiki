@@ -4123,13 +4123,85 @@
           <mxGeometry x="-3730" y="7040" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n97G17PN8jK4bM257nko-5" value="240" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3529" y="7145" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3519" y="7220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n97G17PN8jK4bM257nko-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n97G17PN8jK4bM257nko-4" target="n97G17PN8jK4bM257nko-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="n97G17PN8jK4bM257nko-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3614" y="7101.12" as="sourcePoint" />
+            <mxPoint x="-3519.76" y="7268.88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3630" y="7101" />
+              <mxPoint x="-3630" y="7269" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n97G17PN8jK4bM257nko-8" value="2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3514.5" y="7040" width="129" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-10" value="...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3474" y="7158" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="n97G17PN8jK4bM257nko-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3619" y="7438" as="sourcePoint" />
+            <mxPoint x="-3148.284271247462" y="7699.715728752537" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-3619" y="7590" />
+              <mxPoint x="-3148" y="7590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n97G17PN8jK4bM257nko-11" target="n97G17PN8jK4bM257nko-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3730" y="7430" />
+              <mxPoint x="-3730" y="7820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-11" value="google 云存储" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3699" y="7390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n97G17PN8jK4bM257nko-12" target="n97G17PN8jK4bM257nko-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-12" value="CDN 服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3330" y="7400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n97G17PN8jK4bM257nko-11" target="n97G17PN8jK4bM257nko-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-14" value="云存储作为CDN 的数据源站" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3565" y="7408" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="n97G17PN8jK4bM257nko-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3390" y="7719" as="targetPoint" />
+            <mxPoint x="-3160" y="7719" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-15" value="客户端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3160" y="7690" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-19" value="上传至google 云" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3615" y="7678" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-21" value="根据场景也可以选择允许直接公开访问" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3555" y="7568" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n97G17PN8jK4bM257nko-22" target="n97G17PN8jK4bM257nko-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-24" value="下发给客户端" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n97G17PN8jK4bM257nko-23">
+          <mxGeometry x="-0.2442" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-22" value="后端" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3524" y="7780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n97G17PN8jK4bM257nko-25" value="由后端申请google 云链接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3709" y="7780" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
