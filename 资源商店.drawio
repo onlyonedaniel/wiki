@@ -87,6 +87,36 @@
         <mxCell id="-WVo8tm-4n6SNPtc3tLT-30" value="todo：支付&lt;div&gt;审核&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-35" value="SG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1258" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-36" value="US" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1268" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-37" value="IND" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1268" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-38" value="Craftland 资源商店" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-40" value="FE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-41" value="FE 资源商店" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-WVo8tm-4n6SNPtc3tLT-42" value="IND" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1620" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
