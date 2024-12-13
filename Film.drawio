@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="第 1 页" id="egtoDutuD6MqKTcBQQqh">
-    <mxGraphModel dx="1364" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1086" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fOqt1Nu75RPEKhDrR_KH-1" target="fOqt1Nu75RPEKhDrR_KH-5">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.436;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fOqt1Nu75RPEKhDrR_KH-1" target="fOqt1Nu75RPEKhDrR_KH-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="350" as="targetPoint" />
             <Array as="points">
@@ -13,49 +13,112 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-1" value="我明白只一眼，就能确定那是终点&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-1" value="我明白只一眼，就能确定那是终点&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-5" value="远景：两人偶遇，拼凑玉佩&lt;div&gt;特写：回眸眼神，玉佩&lt;/div&gt;&lt;div&gt;场景：现代 ，古镇&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-5" value="远景：两人偶遇，拼凑玉佩&lt;div&gt;特写：回眸眼神，玉佩&lt;/div&gt;&lt;div&gt;场景：现代 ，古镇&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="350" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOqt1Nu75RPEKhDrR_KH-6" target="fOqt1Nu75RPEKhDrR_KH-12">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fOqt1Nu75RPEKhDrR_KH-6" target="fOqt1Nu75RPEKhDrR_KH-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-6" value="&lt;div&gt;怕什么沦陷&lt;br/&gt;奔向有你的世界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-6" value="&lt;div&gt;怕什么沦陷&lt;br/&gt;奔向有你的世界&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOqt1Nu75RPEKhDrR_KH-8">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fOqt1Nu75RPEKhDrR_KH-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="755" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-8" value="余生续写的诗&lt;br/&gt;每一笔都是你的名字" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-8" value="余生续写的诗&lt;br/&gt;每一笔都是你的名字" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="170" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOqt1Nu75RPEKhDrR_KH-9" target="fOqt1Nu75RPEKhDrR_KH-16">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fOqt1Nu75RPEKhDrR_KH-9" target="fOqt1Nu75RPEKhDrR_KH-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-9" value="再重来一次&lt;br/&gt;也会记得爱你这件事" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-9" value="再重来一次&lt;br/&gt;也会记得爱你这件事" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fOqt1Nu75RPEKhDrR_KH-11" target="fOqt1Nu75RPEKhDrR_KH-20">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fOqt1Nu75RPEKhDrR_KH-11" target="fOqt1Nu75RPEKhDrR_KH-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-11" value="如果说&lt;br/&gt;几百个世纪书写了我们的开始&lt;br/&gt;爱怎会甘愿停止" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-11" value="如果说&lt;br/&gt;几百个世纪书写了我们的开始&lt;br/&gt;爱怎会甘愿停止" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="170" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-12" value="远景：女生奔向男主&lt;div&gt;特写：奔跑中脸部的微笑&lt;/div&gt;&lt;div&gt;场景：古镇，雪山草坪，雪山公路&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-12" value="远景：女生奔向男主&lt;div&gt;特写：奔跑中脸部的微笑&lt;/div&gt;&lt;div&gt;场景：古镇，雪山草坪，雪山公路&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="340" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-15" value="&lt;div&gt;中景：女生端坐，&lt;span style=&quot;background-color: initial;&quot;&gt;男生在扇面上写诗，写完后女生走过来两个人一起拿起扇子，女生抬镜头&lt;/span&gt;&lt;/div&gt;&lt;div&gt;特写：扇面的内容是一首藏头诗,&lt;/div&gt;&lt;div&gt;场景：古镇，现代打看扇面欣赏&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-15" value="&lt;div&gt;中景：女生端坐，&lt;span style=&quot;background-color: initial;&quot;&gt;男生在扇面上写诗，写完后女生走过来两个人一起拿起扇子，女生抬镜头&lt;/span&gt;&lt;/div&gt;&lt;div&gt;特写：扇面的内容是一首藏头诗,&lt;/div&gt;&lt;div&gt;场景：古镇，现代打看扇面欣赏&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="330" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-16" value="中景：掀开盖头&lt;div&gt;特写：眼神&lt;/div&gt;&lt;div&gt;场景：古镇 雪山草坪&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-16" value="中景：掀开盖头&lt;div&gt;特写：眼神&lt;/div&gt;&lt;div&gt;场景：古镇 雪山草坪&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="935" y="335" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="fOqt1Nu75RPEKhDrR_KH-20" value="全景+中景：跳舞，拥抱&lt;div&gt;场景：古镇 雪山草坪&lt;/div&gt;&lt;div&gt;雪山公路&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="fOqt1Nu75RPEKhDrR_KH-20" value="全景+中景：跳舞，拥抱&lt;div&gt;场景：古镇 雪山草坪&lt;/div&gt;&lt;div&gt;雪山公路&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="330" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GgkrxBrJB4FRi_4rid9w-1" target="GgkrxBrJB4FRi_4rid9w-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-1" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;记忆里面漫天飞雪的城楼&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;在响起你名字的时候&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;终于再次盛开了&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-5" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;宛若灵魂的花朵&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GgkrxBrJB4FRi_4rid9w-6" target="GgkrxBrJB4FRi_4rid9w-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-6" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;陪着我 穿过光年的梦&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-7" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;我明白只一眼&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-8" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;就能确定那是终点&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-9" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;怕什么沦陷&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-10" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;奔向有你的世界&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-11" value="&lt;div&gt;女生拿着玉佩思念&lt;/div&gt;&lt;div&gt;雪山&lt;/div&gt;&lt;div&gt;古镇&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-13" value="&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-14" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;余生续写的诗&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-15" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;每一笔都是你的名字&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-16" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;再重来一次&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;也会记得爱你这件事&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-20" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;如果说&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-21" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;几百个世纪书写了我们的开始&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-22" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;爱怎会甘愿停止&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GgkrxBrJB4FRi_4rid9w-23" value="你的名字流星坠落&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
