@@ -4417,16 +4417,19 @@
           <mxGeometry x="-3281.5" y="11430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-5" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;审核队列&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3332" y="11620" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3315" y="11630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;审核结果&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3123" y="11610" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tWTvk_AmsuLl1BRxHq4E-7" target="tWTvk_AmsuLl1BRxHq4E-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-7" value="data" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2781" y="11550" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2781" y="11600" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-8" value="数据组，定时统计线上地图游玩使用的数据&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2861" y="11640" width="250" height="40" as="geometry" />
+          <mxGeometry x="-2860" y="11710" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-10" value="map" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-3840" y="11590" width="60" height="30" as="geometry" />
@@ -4454,6 +4457,21 @@
         </mxCell>
         <mxCell id="tWTvk_AmsuLl1BRxHq4E-18" value="没进审" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-3485" y="11620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-21" value="被动进审" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3575" y="11518" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-23" value="主动抽取" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2875" y="11608" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-25" value="只有玩家更新了地图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3574" y="11488" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-26" value="不更新的但是举报数比较多" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2915" y="11558" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tWTvk_AmsuLl1BRxHq4E-27" value="data 数据滞后" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2810" y="11478" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
