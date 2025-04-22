@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="5119" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5611" dy="2039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4544,6 +4544,36 @@
         </mxCell>
         <mxCell id="PbmuG7nmaxHHjhyWiaFV-8" value="未上传&lt;div&gt;审核中&lt;br&gt;&lt;div&gt;审核失败&lt;/div&gt;&lt;div&gt;已发布&lt;/div&gt;&lt;div&gt;已下线&lt;/div&gt;&lt;div&gt;已废弃&lt;/div&gt;&lt;div&gt;ban&lt;/div&gt;&lt;div&gt;已删除&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3475" y="8403" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3103" y="-160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3120" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3135" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-3080" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3593" y="-190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3610" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-3625" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-3570" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-9" value="购买的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3540" y="128" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-10" value="上传的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3060" y="138" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
