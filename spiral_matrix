@@ -4575,6 +4575,24 @@
         <mxCell id="7TdA9bFzlPkVwD_YEfu3-10" value="上传的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3060" y="138" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-12" value="通过人工审核的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3960" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-13" value="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3774" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-14" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3774" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-15" value="2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4000" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-16" value="最新的成功发布的版本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3754" y="-600" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TdA9bFzlPkVwD_YEfu3-17" value="历史记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3505.5" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
