@@ -5075,8 +5075,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2vvhcPszUwle4YqmBAiu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3430" y="14150" width="120" height="60" as="geometry" />
+        <mxCell id="2vvhcPszUwle4YqmBAiu-11" value="&lt;span style=&quot;color: rgb(212, 212, 212); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, sans-serif; font-size: 13px; text-align: left; background-color: rgb(37, 37, 38);&quot;&gt;企业内部项目构建私域知识库问答&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3395" y="14150" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2vvhcPszUwle4YqmBAiu-12" value="项目代码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3515.5" y="13698" width="70" height="30" as="geometry" />
@@ -5101,10 +5101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2vvhcPszUwle4YqmBAiu-18" value="开发/产品/策划" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3746" y="14290" width="210" height="80" as="geometry" />
+          <mxGeometry x="-3721" y="14270" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2vvhcPszUwle4YqmBAiu-21" value="支撑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3655" y="14218" width="50" height="30" as="geometry" />
+          <mxGeometry x="-3620" y="14210" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2vvhcPszUwle4YqmBAiu-24" value="问答" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-3865" y="14148" width="50" height="30" as="geometry" />
