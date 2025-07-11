@@ -5200,22 +5200,22 @@
           <mxGeometry x="-3315" y="15698" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-1" value="凭证服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-817.5" y="15197" width="120" height="80" as="geometry" />
+          <mxGeometry x="-858" y="15160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-2" value="知识库服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-815" y="15330" width="115" height="100" as="geometry" />
+          <mxGeometry x="-855" y="15290" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-3" value="leavesystem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-835" y="15420" width="115" height="100" as="geometry" />
+          <mxGeometry x="-852.5" y="15420" width="115" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-4" value="chatdesk" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1057" y="15390" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1093" y="15303" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-5" value="agent&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1047" y="15330" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1083" y="15240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-6" value="订制agent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1075" y="15270" width="80" height="30" as="geometry" />
+          <mxGeometry x="-1093" y="15200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-7" value="定制的ugc 的知识库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-705" y="15328" width="130" height="30" as="geometry" />
@@ -5264,6 +5264,9 @@
         </mxCell>
         <mxCell id="bg4GuPIYza4nNxPq9tc_-30" value="FF不同小区脏字库不同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-670" y="15580" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bg4GuPIYza4nNxPq9tc_-31" value="mcp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-725" y="15468" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
