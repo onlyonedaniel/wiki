@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.0.7">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="5632" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5614" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5268,8 +5268,61 @@
         <mxCell id="bg4GuPIYza4nNxPq9tc_-31" value="mcp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-725" y="15468" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wdvM5fUd0qFuhxA_b6BR-1" value="Browser" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wdvM5fUd0qFuhxA_b6BR-1" value="Browser" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3835" y="16320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-3" value="FF 后台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="16920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-7" target="S2PZ1b4BLM6mQkiMWxzr-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3620" y="16770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-16" value="FE-FF&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="S2PZ1b4BLM6mQkiMWxzr-8">
+          <mxGeometry x="0.0922" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-7" target="S2PZ1b4BLM6mQkiMWxzr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-7" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;查询账号绑定关系&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3645.5" y="16630" width="205.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-9" target="S2PZ1b4BLM6mQkiMWxzr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-9" value="查询地图数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3652.5" y="16951" width="233" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3530" y="17180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-10" value="上传地图元数据和申请文件上传链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3651" y="17050" width="233" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-13" value="上传文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3609" y="17180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-15" value="调用FE 后台接口" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3663.5" y="16780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3540" y="16950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-17" value="web 后台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-3469" y="16790" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-19" value="FF - FF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3489" y="16700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S2PZ1b4BLM6mQkiMWxzr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.474;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S2PZ1b4BLM6mQkiMWxzr-15" target="S2PZ1b4BLM6mQkiMWxzr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
