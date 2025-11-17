@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram id="IaArXi_62mYtVn2IlWgm" name="Page-1">
-    <mxGraphModel dx="5249" dy="1889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5534" dy="-16643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5342,14 +5342,98 @@
         <mxCell id="S2PZ1b4BLM6mQkiMWxzr-29" value="查询发布结果(FF api)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3623" y="17440" width="166" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dLPwOLsXbiLr6EkvF1gf-1" value="商店" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="dLPwOLsXbiLr6EkvF1gf-1" value="商店" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-4080" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dLPwOLsXbiLr6EkvF1gf-2" value="agents" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="dLPwOLsXbiLr6EkvF1gf-2" value="agents" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-4090" y="2642.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dLPwOLsXbiLr6EkvF1gf-3" value="工作流" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="dLPwOLsXbiLr6EkvF1gf-3" value="工作流" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-4100" y="2750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-1" value="SG" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3809" y="18390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-2" value="US" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3465" y="18390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8nBS4fDx8JLOjyS-8aYX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3470" y="18540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-3" value="A" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3811" y="18500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3811" y="18580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3811" y="18660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-6" value="A&#39;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3464" y="18500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3465" y="18580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3465" y="18660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-10" value="edit region = SG" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3611.25" y="18515" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-11" value="跨区同步" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="18500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8nBS4fDx8JLOjyS-8aYX-6" target="8nBS4fDx8JLOjyS-8aYX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-3510" y="18540" />
+              <mxPoint x="-3510" y="18628" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-13" value="从SG 同步的地图能否同步到SG?" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3650" y="18650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8nBS4fDx8JLOjyS-8aYX-15" target="8nBS4fDx8JLOjyS-8aYX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-15" value="projects" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3664" y="18960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-16" value="FE&amp;nbsp; 账号" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3653" y="18910" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-17" value="FF 账号" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3795" y="18330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-18" value="FF 账号" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3444" y="18330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-21" value="FE还能往一个跨区同步的槽位上发布地图吗,能的话edit region 要保留吗？" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3344" y="18800" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-23" value="IND" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3134" y="18380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8nBS4fDx8JLOjyS-8aYX-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3380" y="18520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-24" value="B" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3133" y="18490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3134" y="18570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-3134" y="18650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8nBS4fDx8JLOjyS-8aYX-28" value="edit region = IND" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-3305" y="18485" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
