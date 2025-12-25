@@ -305,13 +305,13 @@
           <mxGeometry height="60" width="60" x="650" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-104" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PC" vertex="1">
-          <mxGeometry height="30" width="60" x="320" y="1350" as="geometry" />
+          <mxGeometry height="30" width="60" x="414" y="1385" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-105" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile" vertex="1">
-          <mxGeometry height="30" width="60" x="332" y="1210" as="geometry" />
+          <mxGeometry height="30" width="60" x="414" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FF backend" vertex="1">
-          <mxGeometry height="50" width="180" x="600" y="1335" as="geometry" />
+          <mxGeometry height="40" width="80" x="640" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-157" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-129">
           <mxGeometry relative="1" as="geometry" />
@@ -323,7 +323,7 @@
           <mxGeometry height="60" width="60" x="870" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="web ugcmoderation" vertex="1">
-          <mxGeometry height="30" width="160" x="830" y="1325" as="geometry" />
+          <mxGeometry height="30" width="160" x="830" y="1335" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.通知审核平台" vertex="1">
           <mxGeometry height="30" width="110" x="740" y="1260" as="geometry" />
@@ -389,10 +389,7 @@
           <mxGeometry height="50" width="180" x="980" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8.提交审核结果" vertex="1">
-          <mxGeometry height="30" width="90" x="820" y="1410" as="geometry" />
-        </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-168" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-106">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="30" width="90" x="790" y="1400" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="9.提交审核结果" vertex="1">
           <mxGeometry height="30" width="90" x="740" y="1320" as="geometry" />
