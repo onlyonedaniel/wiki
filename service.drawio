@@ -313,9 +313,6 @@
         <mxCell id="DoDud5T5pa1273i4gfMd-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FF backend" vertex="1">
           <mxGeometry height="50" width="180" x="600" y="1335" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-120" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-157" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -326,15 +323,22 @@
           <mxGeometry height="60" width="60" x="870" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="web ugcmoderation" vertex="1">
-          <mxGeometry height="30" width="160" x="827" y="1240" as="geometry" />
+          <mxGeometry height="30" width="160" x="830" y="1325" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.notify" vertex="1">
-          <mxGeometry height="30" width="60" x="760" y="1260" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-111" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2.通知审核平台" vertex="1">
+          <mxGeometry height="30" width="110" x="740" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="DoDud5T5pa1273i4gfMd-167" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="1300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-113" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/data_services.svg;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="1060" y="1190" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.publish map" vertex="1">
+        <mxCell id="DoDud5T5pa1273i4gfMd-114" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.发布地图" vertex="1">
           <mxGeometry height="30" width="90" x="530" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-117" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-123">
@@ -351,8 +355,8 @@
         <mxCell id="DoDud5T5pa1273i4gfMd-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="web DB" vertex="1">
           <mxGeometry height="30" width="60" x="1120" y="1210" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.generate event log" vertex="1">
-          <mxGeometry height="30" width="150" x="600" y="1190" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-122" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3.生成埋点日志，比如地图举日志" vertex="1">
+          <mxGeometry height="30" width="195" x="585" y="1205" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-151" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-113">
           <mxGeometry relative="1" as="geometry" />
@@ -369,8 +373,8 @@
         <mxCell id="DoDud5T5pa1273i4gfMd-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Auditor" vertex="1">
           <mxGeometry height="30" width="60" x="877" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="query" vertex="1">
-          <mxGeometry height="30" width="60" x="927" y="1355" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7.查看审核任务" vertex="1">
+          <mxGeometry height="45" width="93" x="927" y="1365" as="geometry" />
         </mxCell>
         <mxCell id="DoDud5T5pa1273i4gfMd-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UGC Creator" vertex="1">
           <mxGeometry height="30" width="70" x="220" y="1335" as="geometry" />
@@ -378,20 +382,23 @@
         <mxCell id="DoDud5T5pa1273i4gfMd-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DA" vertex="1">
           <mxGeometry height="30" width="60" x="880" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. collection &amp;amp; caculator" vertex="1">
+        <mxCell id="DoDud5T5pa1273i4gfMd-139" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4. 数据任务统计数据" vertex="1">
           <mxGeometry height="20" width="140" x="730" y="1110" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.sync to web" vertex="1">
-          <mxGeometry height="30" width="100" x="980" y="1100" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-152" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="5.汇总同步到审核平台的数据库" vertex="1">
+          <mxGeometry height="50" width="180" x="980" y="1100" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="audit" vertex="1">
-          <mxGeometry height="30" width="60" x="827" y="1365" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-160" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="8.提交审核结果" vertex="1">
+          <mxGeometry height="30" width="90" x="820" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-161" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="save" vertex="1">
-          <mxGeometry height="30" width="60" x="1000" y="1270" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-168" edge="1" parent="1" source="DoDud5T5pa1273i4gfMd-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="DoDud5T5pa1273i4gfMd-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DoDud5T5pa1273i4gfMd-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3." vertex="1">
-          <mxGeometry height="30" width="60" x="760" y="1310" as="geometry" />
+        <mxCell id="DoDud5T5pa1273i4gfMd-163" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="9.提交审核结果" vertex="1">
+          <mxGeometry height="30" width="90" x="740" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="DoDud5T5pa1273i4gfMd-164" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="6.结合举报数据等规则判定是否需要人工审核" vertex="1">
+          <mxGeometry height="45" width="143" x="987" y="1305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
