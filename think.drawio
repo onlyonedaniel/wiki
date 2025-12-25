@@ -527,10 +527,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clone / fetch" vertex="1">
-          <mxGeometry height="30" width="100" x="892" y="6009" as="geometry" />
-        </mxCell>
-        <mxCell id="TKGu7G-nzv_OssI2xOSA-30" edge="1" parent="1" source="TKGu7G-nzv_OssI2xOSA-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="TKGu7G-nzv_OssI2xOSA-22">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="30" width="100" x="895" y="6052" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-31" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="local repository B&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20value%3D%22index%2Fstage%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22130%22%20width%3D%2297.5%22%20x%3D%22482.5%22%20y%3D%225860%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22shape%3Dcylinder3%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BboundedLbl%3D1%3BbackgroundOutline%3D1%3Bsize%3D15%3B%22%20value%3D%22index%2Fstage%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22130%22%20width%3D%2297.5%22%20x%3D%22482.5%22%20y%3D%225860%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="130" width="97.5" x="1243" y="6173" as="geometry" />
@@ -538,14 +535,11 @@
         <mxCell id="TKGu7G-nzv_OssI2xOSA-32" edge="1" parent="1" source="TKGu7G-nzv_OssI2xOSA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="TKGu7G-nzv_OssI2xOSA-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TKGu7G-nzv_OssI2xOSA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="push / merge" vertex="1">
-          <mxGeometry height="30" width="110" x="1027" y="6103" as="geometry" />
+        <mxCell id="TKGu7G-nzv_OssI2xOSA-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="push&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="110" x="1017" y="6104" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-35" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#ffcccc;strokeColor=#36393d;" value="小美" vertex="1">
-          <mxGeometry height="60" width="30" x="1307" y="6353" as="geometry" />
-        </mxCell>
-        <mxCell id="TKGu7G-nzv_OssI2xOSA-36" edge="1" parent="1" source="TKGu7G-nzv_OssI2xOSA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="TKGu7G-nzv_OssI2xOSA-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="60" width="30" x="1277" y="6373" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-37" edge="1" parent="1" source="TKGu7G-nzv_OssI2xOSA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="TKGu7G-nzv_OssI2xOSA-21">
           <mxGeometry relative="1" as="geometry">
@@ -556,10 +550,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="clone / fetch" vertex="1">
-          <mxGeometry height="30" width="100" x="1243" y="6023" as="geometry" />
+          <mxGeometry height="30" width="100" x="1280" y="6041" as="geometry" />
         </mxCell>
-        <mxCell id="TKGu7G-nzv_OssI2xOSA-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="push / merge" vertex="1">
-          <mxGeometry height="30" width="110" x="1112" y="6063" as="geometry" />
+        <mxCell id="TKGu7G-nzv_OssI2xOSA-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="push" vertex="1">
+          <mxGeometry height="30" width="110" x="1120" y="6101" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-43" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" value="">
           <mxGeometry relative="1" as="geometry">
