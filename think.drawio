@@ -521,7 +521,7 @@
           <mxGeometry height="130" width="97.5" x="942" y="6183" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="大壮" vertex="1">
-          <mxGeometry height="60" width="30" x="952" y="6373" as="geometry" />
+          <mxGeometry height="60" width="30" x="976" y="6372" as="geometry" />
         </mxCell>
         <mxCell id="TKGu7G-nzv_OssI2xOSA-26" edge="1" parent="1" source="TKGu7G-nzv_OssI2xOSA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.367;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" target="TKGu7G-nzv_OssI2xOSA-22">
           <mxGeometry relative="1" as="geometry" />
@@ -566,6 +566,9 @@
             <mxPoint x="767" y="6726" as="sourcePoint" />
             <mxPoint x="802" y="6699" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TKGu7G-nzv_OssI2xOSA-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="大壮" vertex="1">
+          <mxGeometry height="30" width="60" x="957" y="6433" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
