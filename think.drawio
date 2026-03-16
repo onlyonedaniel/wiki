@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="第 1 页" id="UlqAKx3o5Rh7rKJexQWI">
-    <mxGraphModel dx="1497" dy="2036" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="2354" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -706,6 +706,40 @@
         </mxCell>
         <mxCell id="vHE3ZFnn4unDrC8Q_TOf-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="非白名单进审" vertex="1">
           <mxGeometry height="28" width="195" x="903" y="7475" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-2" edge="1" parent="1" source="GmyQtRnhVre08mMmoGX4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="796" y="8581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;transify&lt;/font&gt;" vertex="1">
+          <mxGeometry height="448" width="448" x="626" y="7823" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-4" edge="1" parent="1" source="GmyQtRnhVre08mMmoGX4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="784" y="9061" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 90px;&quot;&gt;离线语言包&lt;/span&gt;" vertex="1">
+          <mxGeometry height="223" width="323" x="623" y="8592" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-12" edge="1" parent="1" source="GmyQtRnhVre08mMmoGX4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GmyQtRnhVre08mMmoGX4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 57px;&quot;&gt;FE 脚本，提取key 和翻译&lt;/font&gt;" vertex="1">
+          <mxGeometry height="223" width="323" x="600" y="9062" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 90px;&quot;&gt;FE离线语言包&lt;/span&gt;" vertex="1">
+          <mxGeometry height="223" width="323" x="286" y="9447" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-10" edge="1" parent="1" source="GmyQtRnhVre08mMmoGX4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" target="GmyQtRnhVre08mMmoGX4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 90px;&quot;&gt;web离线语言包&lt;/span&gt;" vertex="1">
+          <mxGeometry height="270" width="481" x="965" y="9474" as="geometry" />
+        </mxCell>
+        <mxCell id="GmyQtRnhVre08mMmoGX4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;下载离线文件，导入p4&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="223" x="869" y="8353" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
