@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="UlqAKx3o5Rh7rKJexQWI">
-    <mxGraphModel dx="822" dy="1707" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2504" dy="2382" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -947,6 +947,24 @@
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.考虑到槽位缩表的情况" vertex="1">
           <mxGeometry height="43" width="173" x="2310" y="11028" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="380" width="380" x="1879" y="5433" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="380" width="380" x="1872" y="5840" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;第一次请求，sg + us 有50条&lt;/font&gt;" vertex="1">
+          <mxGeometry height="137" width="332" x="2347" y="5411" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;第二次请求，sg + us 有25条，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 33px;&quot;&gt;再请求ind 的25条补充&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="203" width="548" x="2304" y="5864" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="380" width="380" x="1870" y="6254" as="geometry" />
+        </mxCell>
+        <mxCell id="t_rrj5ex7Qg6WjrwdXiP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;第三次请求，&lt;/span&gt;&lt;span style=&quot;font-size: 33px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;请求ind 25条补充（涉及到前端）&lt;/span&gt;" vertex="1">
+          <mxGeometry height="203" width="548" x="2316" y="6257" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
