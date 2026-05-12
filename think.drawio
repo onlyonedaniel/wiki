@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="UlqAKx3o5Rh7rKJexQWI">
-    <mxGraphModel dx="2504" dy="2382" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1886" dy="2275" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -903,31 +903,22 @@
           <mxGeometry height="30" width="90" x="2122" y="11351" as="geometry" />
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="免费槽位" vertex="1">
-          <mxGeometry height="30" width="60" x="2152" y="10951" as="geometry" />
+          <mxGeometry height="30" width="60" x="1980" y="10957" as="geometry" />
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="需要解锁" vertex="1">
-          <mxGeometry height="30" width="60" x="2151" y="11051" as="geometry" />
+          <mxGeometry height="30" width="60" x="1987" y="11059" as="geometry" />
         </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-11" parent="1" style="whiteSpace=wrap;html=1;" value="20001&lt;div&gt;200&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;30&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="60" x="2073" y="11576" as="geometry" />
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
-          <mxGeometry height="30" width="60" x="2122" y="11571" as="geometry" />
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="creator_add_slots" vertex="1">
-          <mxGeometry height="220" width="50" x="1977" y="11101" as="geometry" />
+        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="220" width="51" x="2078" y="11602" as="geometry" />
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="7" vertex="1">
           <mxGeometry height="30" width="60" x="2132" y="11121" as="geometry" />
         </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="30" vertex="1">
-          <mxGeometry height="30" width="60" x="1932" y="11231" as="geometry" />
+        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="白名单加的槽位" vertex="1">
+          <mxGeometry height="30" width="114" x="1931" y="11163" as="geometry" />
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="29" vertex="1">
           <mxGeometry height="30" width="60" x="2132" y="11251" as="geometry" />
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="23" vertex="1">
-          <mxGeometry height="30" width="60" x="2142" y="11621" as="geometry" />
         </mxCell>
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="1-5" vertex="1">
           <mxGeometry height="137" width="50" x="2071" y="10901" as="geometry" />
@@ -935,18 +926,9 @@
         <mxCell id="vQ_Gr3pROT8o4EvnrU1j-19" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="">
           <mxGeometry relative="1" width="80" as="geometry">
             <Array as="points" />
-            <mxPoint x="1984.1993290827822" y="11640.556518554688" as="sourcePoint" />
-            <mxPoint x="2064.1993290827822" y="11640.556518554688" as="targetPoint" />
+            <mxPoint x="1986.9993290827822" y="11603.996518554688" as="sourcePoint" />
+            <mxPoint x="2066.9993290827824" y="11603.996518554688" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="creator_add_slots add slot" vertex="1">
-          <mxGeometry height="30" width="60" x="2196" y="11603" as="geometry" />
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.add slot 已经使用过的像当于多赠送了" vertex="1">
-          <mxGeometry height="52" width="252" x="2300" y="11173" as="geometry" />
-        </mxCell>
-        <mxCell id="vQ_Gr3pROT8o4EvnrU1j-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1.考虑到槽位缩表的情况" vertex="1">
-          <mxGeometry height="43" width="173" x="2310" y="11028" as="geometry" />
         </mxCell>
         <mxCell id="t_rrj5ex7Qg6WjrwdXiP-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="380" width="380" x="1879" y="5433" as="geometry" />
@@ -965,6 +947,24 @@
         </mxCell>
         <mxCell id="t_rrj5ex7Qg6WjrwdXiP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 33px;&quot;&gt;第三次请求，&lt;/span&gt;&lt;span style=&quot;font-size: 33px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;请求ind 25条补充（涉及到前端）&lt;/span&gt;" vertex="1">
           <mxGeometry height="203" width="548" x="2316" y="6257" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="2340" y="1403" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="2393" y="1451" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="80" width="120" x="2423" y="1393" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;creator_slots_id_from = 2000&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="156" x="1819" y="11586" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;max(creator_add_slots,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px; background-color: transparent;&quot;&gt;add_slot&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 15px; background-color: transparent;&quot;&gt;)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2225" y="11680" as="geometry" />
+        </mxCell>
+        <mxCell id="p50eVbBHrJAbAGdH5Pxm-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="20001 开始" vertex="1">
+          <mxGeometry height="30" width="106" x="2147" y="11599" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
