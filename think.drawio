@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="UlqAKx3o5Rh7rKJexQWI">
-    <mxGraphModel dx="3906" dy="3695" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1820" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1037,6 +1037,42 @@
         </mxCell>
         <mxCell id="rzEORsukS3kqzzApBYT--6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
           <mxGeometry height="30" width="60" x="2700" y="7818" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1757" y="11850" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1750" y="11972" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1534" y="11839" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="1539" y="11773" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="1837" y="11834" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="1863" y="11989" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1747" y="12172" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1746" y="12294" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="1530" y="12161" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="1535" y="12095" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="1859" y="12169" as="geometry" />
+        </mxCell>
+        <mxCell id="Tks_HEC4-bRioladoWBS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="1859" y="12311" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
