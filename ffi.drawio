@@ -73,6 +73,9 @@
         <mxCell id="zyE6rXhtidfs8K1LAfI2-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="会自动同步" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="590" as="geometry" />
         </mxCell>
+        <mxCell id="zyE6rXhtidfs8K1LAfI2-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="官网后台的图片上传功能" vertex="1">
+          <mxGeometry height="30" width="220" x="270" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
