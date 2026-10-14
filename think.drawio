@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36">
   <diagram name="第 1 页" id="UlqAKx3o5Rh7rKJexQWI">
-    <mxGraphModel dx="897" dy="1820" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="1981" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1073,6 +1073,20 @@
         </mxCell>
         <mxCell id="Tks_HEC4-bRioladoWBS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
           <mxGeometry height="30" width="60" x="1859" y="12311" as="geometry" />
+        </mxCell>
+        <mxCell id="WywqrGoG2poZiezA2kv5-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="SG" vertex="1">
+          <mxGeometry height="60" width="120" x="1355" y="12596" as="geometry" />
+        </mxCell>
+        <mxCell id="WywqrGoG2poZiezA2kv5-3" edge="1" parent="1" source="WywqrGoG2poZiezA2kv5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1411.3529411764707" y="12660.29411764706" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WywqrGoG2poZiezA2kv5-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="IND" vertex="1">
+          <mxGeometry height="80" width="80" x="1035" y="12705" as="geometry" />
+        </mxCell>
+        <mxCell id="WywqrGoG2poZiezA2kv5-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="global 服务" vertex="1">
+          <mxGeometry height="26" width="199" x="1316" y="12535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
